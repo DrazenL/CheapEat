@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheapEatCms", "CheapEatCms\CheapEatCms.csproj", "{DD73E5AD-08E0-4986-BD14-904022D1FAAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheapEatFront", "..\CheapEatFront\CheapEatFront.csproj", "{E7AC50BE-0C3A-4069-B318-23B5F717F8D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD73E5AD-08E0-4986-BD14-904022D1FAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD73E5AD-08E0-4986-BD14-904022D1FAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD73E5AD-08E0-4986-BD14-904022D1FAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD73E5AD-08E0-4986-BD14-904022D1FAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7AC50BE-0C3A-4069-B318-23B5F717F8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AC50BE-0C3A-4069-B318-23B5F717F8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AC50BE-0C3A-4069-B318-23B5F717F8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AC50BE-0C3A-4069-B318-23B5F717F8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DF3F45C-F6FA-402A-9A43-87B55EA0006D}
+	EndGlobalSection
+EndGlobal
